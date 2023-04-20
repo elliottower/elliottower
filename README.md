@@ -24,7 +24,6 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
  [![Send me an Email](https://img.shields.io/badge/email-elliot%40elliottower.com-blue)](mailto:elliot@elliottower.com)
  [![Discord profile](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/83091537923145728)
  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elliot-tower)
- [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/elliottower/)
 
 📄 Portfolio site: [elliottower.github.io](https://elliottower.github.io/)
 
